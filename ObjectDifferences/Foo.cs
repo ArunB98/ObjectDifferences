@@ -13,7 +13,7 @@
             this.prop2 = prop2;
             this.bar = bar;
         }
-       public sealed class Bar
+        public sealed class Bar
         {
             public int prop3 { get; set; }
             public int prop4 { get; set; }
