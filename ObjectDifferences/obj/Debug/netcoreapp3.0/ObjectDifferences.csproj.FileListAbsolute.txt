@@ -1,0 +1,11 @@
+D:\git\ObjectDifferences\ObjectDifferences\bin\Debug\netcoreapp3.0\ObjectDifferences.exe
+D:\git\ObjectDifferences\ObjectDifferences\bin\Debug\netcoreapp3.0\ObjectDifferences.deps.json
+D:\git\ObjectDifferences\ObjectDifferences\bin\Debug\netcoreapp3.0\ObjectDifferences.runtimeconfig.json
+D:\git\ObjectDifferences\ObjectDifferences\bin\Debug\netcoreapp3.0\ObjectDifferences.runtimeconfig.dev.json
+D:\git\ObjectDifferences\ObjectDifferences\bin\Debug\netcoreapp3.0\ObjectDifferences.dll
+D:\git\ObjectDifferences\ObjectDifferences\bin\Debug\netcoreapp3.0\ObjectDifferences.pdb
+D:\git\ObjectDifferences\ObjectDifferences\obj\Debug\netcoreapp3.0\ObjectDifferences.csprojAssemblyReference.cache
+D:\git\ObjectDifferences\ObjectDifferences\obj\Debug\netcoreapp3.0\ObjectDifferences.AssemblyInfoInputs.cache
+D:\git\ObjectDifferences\ObjectDifferences\obj\Debug\netcoreapp3.0\ObjectDifferences.AssemblyInfo.cs
+D:\git\ObjectDifferences\ObjectDifferences\obj\Debug\netcoreapp3.0\ObjectDifferences.dll
+D:\git\ObjectDifferences\ObjectDifferences\obj\Debug\netcoreapp3.0\ObjectDifferences.pdb
